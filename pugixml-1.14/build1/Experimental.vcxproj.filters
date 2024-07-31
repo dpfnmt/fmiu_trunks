@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\build1\CMakeFiles\d32de4254992b150fc4bf4c292d747e7\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\build1\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{59A2A2FD-BF76-3565-A200-BB0D06A78434}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/pugixml.lib
+D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/cmake/pugixml/pugixml-targets.cmake
+D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/cmake/pugixml/pugixml-targets-release.cmake
+D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/cmake/pugixml/pugixml-config-version.cmake
+D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/cmake/pugixml/pugixml-config.cmake
+D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/pkgconfig/pugixml.pc
+D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/include/pugiconfig.hpp
+D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/include/pugixml.hpp

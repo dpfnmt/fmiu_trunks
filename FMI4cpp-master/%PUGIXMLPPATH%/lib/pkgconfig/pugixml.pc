@@ -1,0 +1,11 @@
+prefix=D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build/%PUGIXMLPPATH%
+exec_prefix=${prefix}
+includedir=D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build/%PUGIXMLPPATH%/include
+libdir=D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build/%PUGIXMLPPATH%/lib
+
+Name: pugixml
+Description: Light-weight, simple and fast XML parser for C++ with XPath support.
+URL: https://pugixml.org/
+Version: 1.14
+Cflags: -I${includedir}
+Libs: -L${libdir} -lpugixml

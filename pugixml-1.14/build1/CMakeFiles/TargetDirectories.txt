@@ -1,0 +1,9 @@
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/Experimental.dir
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/Nightly.dir
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/Continuous.dir
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/NightlyMemoryCheck.dir
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/pugixml-static.dir
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/RUN_TESTS.dir
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/INSTALL.dir
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/ALL_BUILD.dir
+D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/CMakeFiles/ZERO_CHECK.dir

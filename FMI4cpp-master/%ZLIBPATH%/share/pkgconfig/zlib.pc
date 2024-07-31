@@ -1,0 +1,13 @@
+prefix=D:/QY/case/pipeFMI/Source/FMIas/zlib-1.3.1/build/%ZLIBPATH%
+exec_prefix=D:/QY/case/pipeFMI/Source/FMIas/zlib-1.3.1/build/%ZLIBPATH%
+libdir=D:/QY/case/pipeFMI/Source/FMIas/zlib-1.3.1/build/%ZLIBPATH%/lib
+sharedlibdir=D:/QY/case/pipeFMI/Source/FMIas/zlib-1.3.1/build/%ZLIBPATH%/lib
+includedir=D:/QY/case/pipeFMI/Source/FMIas/zlib-1.3.1/build/%ZLIBPATH%/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

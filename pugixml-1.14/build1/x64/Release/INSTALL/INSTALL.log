@@ -1,0 +1,25 @@
+﻿  CMake Warning (dev) at cmake_install.cmake:5 (set):
+  -- Install configuration: "Release"
+    Syntax error in cmake code at
+  
+      D:/QY/case/pipeFMI/Source/FMIas/pugixml-1.14/build1/cmake_install.cmake:5
+  
+    when parsing string
+  
+      D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin
+  
+    Invalid escape sequence \Q
+  
+    Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+    "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+    command to set the policy and suppress this warning.
+  This warning is for project developers.  Use -Wno-dev to suppress it.
+  
+  -- Installing: D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/pugixml.lib
+  -- Installing: D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/cmake/pugixml/pugixml-targets.cmake
+  -- Installing: D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/cmake/pugixml/pugixml-targets-release.cmake
+  -- Installing: D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/cmake/pugixml/pugixml-config-version.cmake
+  -- Installing: D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/cmake/pugixml/pugixml-config.cmake
+  -- Installing: D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/lib/pkgconfig/pugixml.pc
+  -- Installing: D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/include/pugiconfig.hpp
+  -- Installing: D:\QY\case\pipeFMI\Source\FMIas\pugixml-1.14\bin/include/pugixml.hpp
